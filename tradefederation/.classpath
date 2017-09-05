@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="ddmlib-prebuilt.jar"/>
+	<classpathentry kind="lib" path="jline-0.9.94.jar"/>
+	<classpathentry kind="lib" path="junit-4.12.jar"/>
+	<classpathentry kind="lib" path="kxml2-2.3.0.jar"/>
+	<classpathentry kind="lib" path="json-prebuilt.jar"/>
+	<classpathentry kind="lib" path="guavalib.jar"/>
+	<classpathentry kind="lib" path="loganalysis-tests.jar"/>
+	<classpathentry kind="lib" path="loganalysis.jar"/>
+	<classpathentry kind="lib" path="tf-prod-metatests.jar"/>
+	<classpathentry kind="lib" path="tf-prod-tests.jar"/>
+	<classpathentry kind="lib" path="tf-remote-client.jar"/>
+	<classpathentry kind="lib" path="tradefed-tests.jar"/>
+	<classpathentry kind="lib" path="tradefed.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

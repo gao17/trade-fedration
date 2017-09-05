@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="guavalib.jar"/>
+	<classpathentry kind="lib" path="json-prebuilt.jar"/>
+	<classpathentry kind="lib" path="ddmlib-prebuilt.jar"/>
+	<classpathentry kind="lib" path="guava-15.0.jar"/>
+	<classpathentry kind="lib" path="jsr305lib.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
